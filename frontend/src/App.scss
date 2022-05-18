@@ -1,0 +1,11 @@
+.btn {
+    &.btn-sm > svg {
+        margin-top: -3px;
+    }
+}
+
+.list-group-item {
+    &.bg-disabled {
+        background-color: #e9ecef;
+    }
+}
